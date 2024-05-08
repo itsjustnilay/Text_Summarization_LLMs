@@ -112,5 +112,5 @@ long-ft-pubmed-grt-AP_final.txt
 
 ## Acknowledgement
 
-This project was prepared for CPSC 577 'Natural Language Processing' at Yale.
+This project was prepared as a part of course CPSC 577 'Natural Language Processing' at Yale.
 
