@@ -109,3 +109,7 @@ long-ft-pubmed-grt-AP_final.txt
     ├── generate_long-4.py
     └── generate_t5 (1).py
 
+## Acknowledgement
+
+This project was prepared for CPSC 577 'Natural Language Processing' at Yale.
+
